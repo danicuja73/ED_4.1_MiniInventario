@@ -15,3 +15,9 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 - `.gitignore`: exclusiones de archivos no necesarios.
 - `README.md`: documentación básica del proyecto.
 Este cambio se ha realizado desde una copia clonada del repositorio.
+## Manual rápido
+
+1. Ejecuta Main.java desde IntelliJ IDEA.
+2. El sistema permite búsquedas simples.
+3. El proyecto utiliza Git Flow básico.
+4. Los cambios se sincronizan mediante GitHub.
